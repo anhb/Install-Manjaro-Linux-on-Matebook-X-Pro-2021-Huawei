@@ -10,7 +10,7 @@ This guide provides step-by-step instructions for installing Manjaro KDE on a Hu
 
 1. [Prerequisites](#Prerequisites)
 2. [Preparing a USB flash drive for installation](#Preparing-a-USB-flash-drive-for-installation)
-3. [Installation Guide](#Installation Guide)
+3. [Installation Guide](#Installation-Guide)
 4. [Post-Installation Configuration](#Post-Installation-Configuration)
 5. [Troubleshooting](#Troubleshooting)
 
@@ -118,7 +118,7 @@ If you install new terminals, normally you can change the size using:
 
 ### Battery
 
-These configurations you need to do since will avoid one bug that I explain in this section [SSDM BUG](# SDDM BUG (Black screen and Password Fail)) after fix it or decide something, you can change for your own confs.
+These configurations you need to do since will avoid one bug that I explain in this section [SSDM BUG](#SDDM-BUG-(Black-screen-and-Password-Fail)) after fix it or decide something, you can change for your own confs.
 
 To apply them go to:
 
@@ -152,7 +152,7 @@ Increase **Pointer acceleration** to *0.20* and activate **invert scroll directi
 
 ### SDDM BUG (Black screen and Password Fail)
 
-This bug happens when the computer enter to sleep or it is inactive, first time works, but multiple times the password is not recognized by SDDM and you cannot login again, and when the computer is inactive for long time the black screen shows up and you cannot do anything. To avoid them you need to make the changes I do in the [battery section](# Battery), but to fix it you have two options:
+This bug happens when the computer enter to sleep or it is inactive, first time works, but multiple times the password is not recognized by SDDM and you cannot login again, and when the computer is inactive for long time the black screen shows up and you cannot do anything. To avoid them you need to make the changes I do in the [battery section](#Battery), but to fix it you have two options:
 
 1. Fix the error
 
@@ -271,7 +271,7 @@ And you will find the configurations that takes alsa for your driver in the "*uc
 
   >  mv /usr/share/alsa/ucm2/ /usr/share/alsa/ucm/
 
-  And reboot the computer, check volume sound, if you notice the speakers and quality change when you reduce the volume, you need to find the new configurations otherwise you have fixed the error and only we need to increase the quality sound in this section: [increase quality sound section](# Increase Quality Sound).
+  And reboot the computer, check volume sound, if you notice the speakers and quality change when you reduce the volume, you need to find the new configurations otherwise you have fixed the error and only we need to increase the quality sound in this section: [increase quality sound section](#-Increase-Quality-Sound).
 
   :exclamation: *Remember I mean bad quality because it's not the best but when you reduce the volume the quality is extremely horrible*
 
