@@ -8,11 +8,11 @@ This guide provides step-by-step instructions for installing Manjaro KDE on a Hu
 
 ## Table of Contents
 
-1. [Prerequisites](# Prerequisites)
-2. [Preparing a USB flash drive for installation](# Preparing a USB flash drive for installation)
-3. [Installation Guide](# Installation Guide)
-4. [Post-Installation Configuration](# Post-Installation Configuration)
-5. [Troubleshooting](# Troubleshooting)
+1. [Prerequisites](#Prerequisites)
+2. [Preparing a USB flash drive for installation](#Preparing-a-USB-flash-drive-for-installation)
+3. [Installation Guide](#Installation Guide)
+4. [Post-Installation Configuration](#Post-Installation-Configuration)
+5. [Troubleshooting](#Troubleshooting)
 
 ## Prerequisites
 
@@ -350,8 +350,9 @@ Band 3, Attack Time: 100 ms, Release Time: 150 ms, Attack Threshold: -24 dB, Rat
 Band 4, Attack Time: 80 ms, Release Time: 120 ms, Attack Threshold: -24 dB, Ratio: 4Knee: -9 dBMakeup: 4 dB
 ```
 
-sudo systemctl disable sddm
-sudo systemctl enable lightdm![](assets/images/easy_band.png)
+
+
+![](assets/images/easy_band.png)
 
 Now select the bands as the following image and save it.
 
