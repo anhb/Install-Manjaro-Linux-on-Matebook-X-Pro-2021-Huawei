@@ -118,7 +118,7 @@ If you install new terminals, normally, you can change the size using:
 
 ### Battery
 
-You need these configurations, since it will avoid one bug that I explained in this section [SSDM BUG](#SDDM-BUG-(Black-screen-and-Password-Fail)). After fixing it or deciding on something, you can change for your own confs.
+You need these configurations, since it will avoid one bug that I explained in this section [SDDM BUG](#SDDM-BUG-(Black-screen-and-Password-Fail)). After fixing it or deciding on something, you can change for your own confs.
 
 To apply them, go to:
 
