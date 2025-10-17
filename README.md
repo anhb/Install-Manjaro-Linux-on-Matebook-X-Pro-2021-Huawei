@@ -13,6 +13,7 @@ This guide provides step-by-step instructions for installing Manjaro KDE on a Hu
 3. [Installation Guide](#Installation-Guide)
 4. [Post-Installation Configuration](#Post-Installation-Configuration)
 5. [Troubleshooting](#Troubleshooting)
+6. [Autor](#Autor)
 
 ## Prerequisites
 
@@ -370,7 +371,15 @@ Save it again, and now go to the *PipeWire* tab, in the *General* option, you wi
 
 You can try your new configurations and close EasyEffects, in case you don't get the new quality, visit this article for more [info](https://forum.manjaro.org/t/how-to-make-linux-sound-great/146143).
 
+## Author
 
+**Antony Hernandez** – *Author and CEO of Anbytte*
+
+My social media channels are known under the alias **bleakmurder**.
+
+* [Company Website (Anbytte)](https://www.anbytte.com)
+* [LinkedIn Profile (Antony Hernandez)](https://www.linkedin.com/in/anhb96)
+* [TikTok (bleakmurder)](https://www.tiktok.com/@anhb96)
 
 
 
