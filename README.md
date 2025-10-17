@@ -13,7 +13,7 @@ This guide provides step-by-step instructions for installing Manjaro KDE on a Hu
 3. [Installation Guide](#Installation-Guide)
 4. [Post-Installation Configuration](#Post-Installation-Configuration)
 5. [Troubleshooting](#Troubleshooting)
-6. [Autor](#Autor)
+6. [Author](#Author)
 
 ## Prerequisites
 
